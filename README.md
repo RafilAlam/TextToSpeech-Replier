@@ -5,7 +5,10 @@
 ---
 
 ## 🎥 Demo  
-_Coming soon: Screen recording showcasing the interaction flow._
+
+
+https://github.com/user-attachments/assets/b8321fb8-599f-47e0-bd2e-50d7ddf57a47
+
 
 ---
 
