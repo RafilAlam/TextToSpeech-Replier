@@ -9,7 +9,7 @@ _Coming soon: Screen recording showcasing the interaction flow._
 
 ---
 
-## 🧠 Features
+## 🛠️ Features
 - 🎧 **Screen Audio Capture** with VB-Audio Cable  
 - 🧍‍♂️ **Speaker Diarization** using `pyannote`  
 - ✍️ **Speech Transcription** powered by OpenAI's `whisper`  
@@ -19,7 +19,7 @@ _Coming soon: Screen recording showcasing the interaction flow._
 
 ---
 
-## 🛠️ Tech Stack
+## 📦 Tech Stack
 **Language**: Python
 - `whisper` (STT)
 - `pyannote.audio` (Speaker Diarization)
